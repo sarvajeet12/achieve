@@ -19,12 +19,12 @@ export const cardList = [
         description: "Tic Tac Toe is a simple, classic two-player game where each tries to align three X's or O's in a grid.",
         path: "https://sarva-tic-tac-toe.netlify.app/"
     },
-    // {
-    //     image: images.Todo,
-    //     name: "todo list",
-    //     description: "Create a todo list with the ability to add, remove, and mark tasks as complete",
-    //     path: "https://sarvatodo.netlify.app/"
-    // },
+    {
+        image: images.RandomColor,
+        name: "random color",
+        description: "A random color generator creates unpredictable colors by combining random RGB values, producing unique and vibrant color combinations each time.",
+        path: "https://sarva-color-generator.netlify.app/"
+    },
     // {
     //     image: images.Todo,
     //     name: "todo list",
