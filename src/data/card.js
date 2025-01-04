@@ -20,10 +20,10 @@ export const cardList = [
         path: "https://sarva-tic-tac-toe.netlify.app/"
     },
     {
-        image: images.RandomColor,
-        name: "random color",
-        description: "A random color generator creates unpredictable colors by combining random RGB values, producing unique and vibrant color combinations each time.",
-        path: "https://sarva-color-generator.netlify.app/"
+        image: images.Quote,
+        name: "quote for you",
+        description: "Quotes provide inspiration, motivation, and wisdom. They capture profound thoughts in concise words, offering encouragement and perspective in daily life.",
+        path: "https://quotes-ten-olive.vercel.app/"
     },
     // {
     //     image: images.Todo,

@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div className={`container ${theme ? "dark" : ""}`}>
       <DarkLightTheme theme={theme} setTheme={setTheme} />
-      <Outlet />
+      <Outlet theme={theme}/>
     </div>
   )
 }
